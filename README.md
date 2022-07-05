@@ -49,9 +49,6 @@ public class UserPrompt {
         }
 
         System.out.println("Your current total is : " + total);
-		
-		
-	}
-
+		}
 }
 }
